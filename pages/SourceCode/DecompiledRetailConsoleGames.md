@@ -40,6 +40,9 @@ Nintendo systems are by far the most popular for reverse engineering projects, e
 ### Balloon Fight
 {% include link-to-other-site.html url="https://github.com/LuigiBlood/balloonfight_dis" description="Project by LuigiBlood, requires BASS to assemble back into the retail ROM" image="https://upload.wikimedia.org/wikipedia/en/a/a8/BalloonFightnesboxart.jpg" title="Balloon Fight (USA) NES Disassembly"  %}
 
+### Balloon Fight
+{% include link-to-other-site.html url="https://github.com/LuigiBlood/balloonfight_dis" description="Project by LuigiBlood, requires BASS to assemble back into the retail ROM" image="https://upload.wikimedia.org/wikipedia/en/a/a8/BalloonFightnesboxart.jpg" title="Balloon Fight (USA) NES Disassembly"  %}
+
 ### Dragon Warrior
 {% include link-to-other-site.html url="https://github.com/nmikstas/dragon-warrior-disassembly" description="Complete Dragon warrior disassembly by github user nmikstas, uses Ophis to assemble back into the original ROM" image="https://upload.wikimedia.org/wikipedia/en/8/84/Dragon_Warrior.jpg" title="Complete Dragon warrior disassembly"  %}
 
@@ -57,6 +60,9 @@ Nintendo systems are by far the most popular for reverse engineering projects, e
 
 ### Mega Man 5
 {% include link-to-other-site.html url="https://github.com/Raidenthequick/megaman5-disassembly" description="Fully complete disassembly of Mega Man 5 by Raidenthequick, it compiles into the US version of the ROM with the xkas assembler" image="https://upload.wikimedia.org/wikipedia/en/2/2c/Megaman5_box.jpg" title="Full disassembly of Mega Man 5"  %}
+
+### Mario Bros
+{% include link-to-other-site.html url="https://github.com/RussianManSMWC/Mario-Bros.-Dis" description="Project by LuigiBlood, requires BASS to assemble back into the retail ROM" image="https://upload.wikimedia.org/wikipedia/en/a/a8/BalloonFightnesboxart.jpg" title="Mario-Bros.-Dis"  %}
 
 ### Super Mario Bros
 {% include link-to-other-site.html url="https://gist.github.com/1wErt3r/4048722" description="COmplete disassembly of Super Mario Bros by doppelganger. Uses x816 to compile back to the original ROM." image="https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png" title="Full disassembly of Super Mario Bros" %}
@@ -89,11 +95,11 @@ Nintendo systems are by far the most popular for reverse engineering projects, e
 ## Nintendo 64
 Recently, mainly in thanks to the huge success of the Super Mario 64 project, there has been revived interest in Nintendo 64 Decompilation. While most projects are still in very early stages, there are a few that meet the criteria for this list.
 
-### Mario Kart 64
-{% include link-to-other-site.html url="https://github.com/ProjectRevoTPP/mk64" description="A very early decompilation of Mario Kart 64 (U) source" image="https://upload.wikimedia.org/wikipedia/en/7/7e/Mario_Kart_64box.png" title="A Mario Kart 64 disassembly"  %}
-
 ### Super Mario 64
 {% include link-to-other-site.html url="https://github.com/n64decomp/sm64" description="This repo contains a full decompilation of Super Mario 64 (J), (U), and (E) with minor exceptions in the audio subsystem. it uses the original IRIX based compiler toolchain to build wrapped in QEMU-IRIX for compatibility on modern systems." image="https://upload.wikimedia.org/wikipedia/en/6/6a/Super_Mario_64_box_cover.jpg" title="Super Mario 64 decompilation"  %}
+
+### Mario Kart 64
+{% include link-to-other-site.html url="https://github.com/n64decomp/mk64" description="A W.I.P decompilation of Mario Kart 64 (U) source" image="https://upload.wikimedia.org/wikipedia/en/7/7e/Mario_Kart_64box.png" title="A Mario Kart 64 disassembly"  %}
 
 ## The Legend of Zelda: Ocarina of Time
 {% include link-to-other-site.html url="https://github.com/zeldaret/oot" description="This is a WIP decompilation of The Legend of Zelda: Ocarina of Time. The purpose of the project is to recreate a source code base for the game from scratch, using information found inside the game along with static and/or dynamic analysis. The only build currently supported is Master Quest (Debug), but other versions are planned to be supported." image="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/The_Legend_of_Zelda_Ocarina_of_Time_box_art.png/220px-The_Legend_of_Zelda_Ocarina_of_Time_box_art.png" title="Decompilation of The Legend of Zelda: Ocarina of Time"  %}
@@ -105,8 +111,10 @@ Recently, mainly in thanks to the huge success of the Super Mario 64 project, th
 {% include link-to-other-site.html url="https://github.com/Erick194/DOOM64-RE" description="A decompilation of Doom 64 by the GEC Team" image="https://upload.wikimedia.org/wikipedia/en/2/2b/Doom_64_box.jpg" title="Decompilation of Doom 64"  %}
 
 ## Perfect Dark
-{% include link-to-other-site.html url="https://github.com/n64decomp/perfect_dark" description="Decompilation of Perfect Dark, about 25% complete" image="https://upload.wikimedia.org/wikipedia/en/3/32/Perfect_dark_box.jpg" title="Decompilation of Perfect Dark"  %}
+{% include link-to-other-site.html url="https://github.com/n64decomp/perfect_dark" description="Decompilation of Perfect Dark, go to https://ryandwyer.gitlab.io/pdstatus/ for status" image="https://upload.wikimedia.org/wikipedia/en/3/32/Perfect_dark_box.jpg" title="Decompilation of Perfect Dark"  %}
 
+## Space Station Silicon Valley
+{% include link-to-other-site.html url="https://github.com/mkst/sssv" description="A WIP decompilation of Space Station Silicon Valle" image="https://upload.wikimedia.org/wikipedia/en/3/32/Perfect_dark_box.jpg" title="Space Station Silicon Valley N64"  %}
 
 ---
 ## Nintendo GameCube
@@ -181,7 +189,7 @@ Recently, mainly in thanks to the huge success of the Super Mario 64 project, th
 {% include link-to-other-site.html url="https://github.com/pret/pokefirered" description="This is a disassembly of Pokémon FireRed and LeafGreen, it uses the devkitARM SDK to build the ROM" image="https://upload.wikimedia.org/wikipedia/en/a/a7/Pokemon_LeafGreen_box.jpg" title="Decompilation of Pokémon FireRed/LeafGreen"  %}
 
 ### Pokémon Mystery Dungeon: Red Rescue Team
-{% include link-to-other-site.html url="https://github.com/pret/pmd-red" description="This is a disassembly of Pokémon Mystery Dungeon: Red Rescue Team, it uses the devkitARM SDK to build the ROM" image="https://cdn.bulbagarden.net/upload/thumb/b/b4/MD_Red_EN_boxart.jpg/500px-MD_Red_EN_boxart.jpg" title="Decompilation of Pokémon Mystery Dungeon: Red Rescue Team"  %}
+{% include link-to-other-site.html url="https://github.com/pret/pmd-red" description="This is a disassembly of Pokémon Mystery Dungeon: Red Rescue Team, it uses the devkitARM SDK to build the ROM" image="https://cdn2.bulbagarden.net/upload/thumb/b/b4/MD_Red_EN_boxart.jpg/1200px-MD_Red_EN_boxart.jpg" title="Decompilation of Pokémon Mystery Dungeon: Red Rescue Team"  %}
 
 ---
 ## Nintendo DS
@@ -200,7 +208,7 @@ Although the Sega Master System was hugely popular in Europe, it can't compete w
 {% include link-to-other-site.html url="https://github.com/lory90/ps1disasm" description="Incomplete Phantasy Star Disassembly for Sega Master System from SonicRetro. It uses the wla-z80 assembler to build the ROM" image="https://upload.wikimedia.org/wikipedia/en/3/34/Phantasy_Star_MS_cover.png" title="Phantasy Star Disassembly"  %}
 
 ### Sonic 2 (SMS)
-{% include link-to-other-site.html url="https://github.com/sonicretro/s2smsdisasm" description="Sonic 2 for the Sega Master System Incomplete Disassembly from SonicRetro. It uses the wla-z80 assembler to build the ROM." image="" title="Sonic 2 SMS Disassembly"  %}
+{% include link-to-other-site.html url="https://github.com/sonicretro/s2smsdisasm" description="Sonic 2 for the Sega Master System Incomplete Disassembly from SonicRetro. It uses the wla-z80 assembler to build the ROM." image="https://greenhillszone.files.wordpress.com/2011/03/sonic_the_hedgehog_2_8-bit.png" title="Sonic 2 SMS Disassembly"  %}
 
 ---
 ## Sega Mega Drive
